@@ -1,0 +1,72 @@
+
+
+body {
+height:100%;
+margin:0px;
+background-image: url(../img/background.png);
+background-size: cover;
+position: static;
+}
+
+img.moon{
+position: absolute;
+bottom: 0px;
+width: 100%;
+height: 30%;
+}
+
+table.option{
+position: absolute;
+left: 10px;
+top: 10px;
+heigth: 10%;
+width: 20%;
+}
+
+img.opt{
+heigth: 50%;
+width: 50%;
+}
+
+img.cat{
+position: absolute;
+left:10%;
+top:70%;
+visibility: visible;
+z-index:1;
+heigth: 10%;
+width: 10%;
+}
+
+img.nave{
+position: absolute;
+left:45%;
+top:10%;
+heigth: 5%;
+width: 5%;}
+
+img.help{
+position: absolute;
+right:5%;
+bottom: 40%;
+heigth: 7%;
+width: 7%;
+}
+
+table.data{
+position: absolute;
+right:5%;
+top: 2%;
+heigth: 10%;
+width: 20%;
+}
+
+p.tabfont{
+color:#FFFFFF;
+font-size: 80%;
+font-family:Comic Sans MS;
+align: center;}
+
+img.fuel{
+heigth: 70%;
+width: 70%;}
