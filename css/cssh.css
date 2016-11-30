@@ -49,8 +49,8 @@ img.help{
 position: absolute;
 right:5%;
 bottom: 40%;
-heigth: 7%;
-width: 7%;
+heigth: 5%;
+width: 5%;
 }
 
 table.data{
@@ -70,3 +70,39 @@ align: center;}
 img.fuel{
 heigth: 70%;
 width: 70%;}
+
+img.turbo{
+position: absolute;
+right:5%;
+top: 30%;
+heigth: 7%;
+width:7%;
+}
+
+#pausa{
+position: absolute;
+top: 40%;
+left: 40%;
+display:none;
+font-family:Comic Sans MS;
+color:white;
+border:2px solid #FFFFFF;}
+
+#ayuda{
+position: absolute;
+top: 40%;
+left: 40%;
+display:none;
+font-family:Comic Sans MS;
+color:white;
+border:2px solid #FFFFFF;
+heigth: 20%;
+width: 20%;
+z-index:1;}
+
+img.acerca{
+position: absolute;
+right: 5%;
+bottom: 29%;
+heigth: 5%;
+width: 5%;}
